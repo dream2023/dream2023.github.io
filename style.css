@@ -1,0 +1,148 @@
+body {
+  font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
+  color: #2c3e50;
+  max-width: 600px;
+  margin: auto;
+  padding: 0 20px 50px;
+  line-height: 1.5;
+  background: #fefefe;
+}
+ul,
+ol,
+li {
+  list-style: none;
+  list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+li {
+  margin: 0;
+  padding: 0 5px;
+}
+a {
+  color: #607d8b;
+}
+.iconfont {
+  font-size: 1.1em;
+  padding-right: 3px;
+}
+
+.profile {
+  height: 100vh;
+  text-align: center;
+}
+
+.profile-container {
+  padding-top: 30%;
+  box-sizing: border-box;
+}
+
+.profile-avatar {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.profile-motto {
+  color: #7f8c8d;
+}
+.profile-weixin {
+  width: 150px;
+  height: 150px;
+}
+
+.profile-links {
+  margin-top: 20px;
+}
+
+.project-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.project-item {
+  border-bottom: 1px dashed #f0f0f0;
+  margin-bottom: 32px;
+  padding-bottom: 32px;
+  width: 100%;
+}
+.project-item:last-child {
+  border-bottom: none;
+}
+.project-name {
+  margin: 0;
+  font-size: 1.3em;
+}
+.project-desc {
+  margin: 5px 0 3px;
+  color: #7f8c8d;
+}
+.project-links {
+  margin-left: -5px;
+}
+
+.resume-tip {
+  margin-bottom: 20px;
+}
+.resume-info-title {
+  padding-left: 15px;
+  border-left: 4px solid #7f8c8d;
+  height: 1em;
+  line-height: 1em;
+}
+.resume-info-item {
+  margin-top: 40px;
+}
+.resume-info-detail {
+  width: 100%;
+  font-size: 0.9em;
+}
+.resume-info-detail li {
+  display: inline-block;
+  line-height: 2.5em;
+  width: 49%;
+  padding: 0;
+  margin: 0;
+}
+.resume-info-detail-vertical li {
+  width: 100%;
+}
+
+.resume-info-work-history {
+  font-size: 0.95em;
+}
+.resume-info-work-history * {
+  font-size: 1em;
+}
+.resume-info-work-history-title {
+  margin: 0 0 0 0;
+}
+.resume-info-work-history-info-title {
+  margin: 10px 0 0 0;
+}
+
+.resume-info-work-history-info-performance {
+  text-align: center;
+  color: #999999;
+  line-height: 1.5em;
+}
+
+.resume-info-work-history-info-performance div {
+  margin-bottom: 10px;
+  display: inline-block;
+  width: 49%;
+}
+
+
+@media  (max-width: 600px) {
+  .resume-info-work-history-info-performance div {
+    width: 100%;
+  }
+}
+
+.resume-info-work-history-info-performance img{
+  object-fit: contain;
+  width: 200px;
+  height: 200px;
+}
