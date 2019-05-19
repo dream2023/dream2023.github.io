@@ -3,16 +3,79 @@
   <head>
     <meta charset="UTF-8" />
     <title>张超杰</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style type="text/css">
       body {
         font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
         color: #2c3e50;
         max-width: 600px;
         margin: auto;
-        background: #eee;
+        padding: 0 20px;
+        line-height: 1.5;
+        background: #fefefe;
+      }
+      ul,
+      ol,
+      li {
+        list-style: none;
+        list-style-type: none;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+      }
+      li {
+        margin: 0;
+        padding: 0 5px;
+      }
+      a {
+        color: #607d8b;
+      }
+      .profile {
+        height: 100vh;
+        text-align: center;
+      }
+
+      .profile-container {
+        padding-top: 30%;
+        box-sizing: border-box;
+      }
+
+      .profile-avatar {
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+      }
+
+      .profile-motto {
+        color: #7f8c8d;
+      }
+      .profile-links {
+        margin-top: 20px;
+      }
+
+      .project-title {
+        text-align: center;
+        margin-bottom: 50px;
+      }
+
+      .project-item {
+        border-bottom: 1px dashed #f0f0f0;
+        margin-bottom: 32px;
+        padding-bottom: 32px;
+        width: 100%;
+      }
+      .project-name {
+        margin: 0;
+        font-size: 1.3em;
+      }
+      .project-desc {
+        margin: 5px 0 3px;
+        color: #7f8c8d;
+      }
+      .project-links {
+        margin-left: -5px;
       }
     </style>
-    <script type="text/javascript"></script>
   </head>
   <body>
     <main class="wrapper">
@@ -21,24 +84,143 @@
           <img class="profile-avatar" src="./avatar.jpg" alt="张超杰" />
           <h1 class="profile-name">张超杰</h1>
           <div class="profile-motto">
-            坚持一件事情, 不是因为我一定要坚持做它, 而是因为做那件事让我很舒服,
-            例如编程
+            坚持一件事情，不是因为我一定要坚持做它，而是因为做那件事让我很舒服，很喜欢
           </div>
           <ul class="profile-links">
-            <li><a href="">Github</a></li>
-            <li><a href="">掘进</a></li>
+            <li><a href="https://github.com/dream2023">Github</a></li>
+            <li>
+              <a href="https://juejin.im/user/5c1b0510f265da6150646b9a">掘进</a>
+            </li>
           </ul>
         </div>
       </section>
       <section class="project">
-        <h4 class="project-title"></h4>
+        <h2 class="project-title">😊 开源项目列表 👇</h2>
         <ul class="project-list">
           <li class="project-item">
-            <h5 class="project-name"></h5>
-            <p class="project-desc"></p>
+            <h3 class="project-name">vue-ele-gallery</h3>
+            <p class="project-desc">
+              利用 element ui 组件库构成的画廊组件, 支持图片、视频、iframe
+            </p>
             <ul class="project-links">
-              <li class="profile-link-item"><a href="">Github</a></li>
-              <li class="profile-link-item"><a href="">Documentation</a></li>
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/vue-ele-gallery"
+                  >Github</a
+                >
+              </li>
+              <li class="profile-link-item">
+                <a href="https://dream2023.github.io/vue-ele-gallery/"
+                  >Documentation</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="project-item">
+            <h3 class="project-name">easy-go-top</h3>
+            <p class="project-desc">简单 & 强大的 vue 回到顶部组件</p>
+            <ul class="project-links">
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/easy-go-top">Github</a>
+              </li>
+              <li class="profile-link-item">
+                <a href="https://dream2023.github.io/easy-go-top/"
+                  >Documentation</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="project-item">
+            <h3 class="project-name">easy-affix</h3>
+            <p class="project-desc">
+              Vue图钉组件,
+              可以将内容固定在屏幕上，并且不随页面的滚动而滚动，常用于侧边菜单和导航栏等
+            </p>
+            <ul class="project-links">
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/vue-ele-gallery"
+                  >Github</a
+                >
+              </li>
+              <li class="profile-link-item">
+                <a href="https://dream2023.github.io/vue-ele-gallery/"
+                  >Documentation</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="project-item">
+            <h3 class="project-name">vue-auto-text</h3>
+            <p class="project-desc">给定宽度, 文字大小自适应组件</p>
+            <ul class="project-links">
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/vue-auto-text">Github</a>
+              </li>
+              <li class="profile-link-item">
+                <a href="https://dream2023.github.io/vue-auto-text/"
+                  >Documentation</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="project-item">
+            <h3 class="project-name">easy-github-pages</h3>
+            <p class="project-desc">一分钟搭建 GitHub Pages 的Vue组件</p>
+            <ul class="project-links">
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/easy-github-pages"
+                  >Github</a
+                >
+              </li>
+              <li class="profile-link-item">
+                <a href="https://dream2023.github.io/easy-github-pages/"
+                  >Documentation</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="project-item">
+            <h3 class="project-name">vue-image-pro</h3>
+            <p class="project-desc">一个vue图片增强组件</p>
+            <ul class="project-links">
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/vue-image-pro">Github</a>
+              </li>
+              <li class="profile-link-item">
+                <a href="https://dream2023.github.io/vue-image-pro/"
+                  >Documentation</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="project-item">
+            <h3 class="project-name">wx2tt</h3>
+            <p class="project-desc">微信小程序一键转头条工具</p>
+            <ul class="project-links">
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/wx2tt">Github</a>
+              </li>
+            </ul>
+          </li>
+          <li class="project-item">
+            <h3 class="project-name">ThinkPHP5-alipay</h3>
+            <p class="project-desc">超简单的 ThinPHP5 支付宝扩展库</p>
+            <ul class="project-links">
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/ThinkPHP5-alipay"
+                  >Github</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="project-item">
+            <h3 class="project-name">ThinkPHP5-wxpay</h3>
+            <p class="project-desc">超简单的 ThinPHP5 微信扩展库</p>
+            <ul class="project-links">
+              <li class="profile-link-item">
+                <a href="https://github.com/dream2023/ThinkPHP5-wxpay"
+                  >Github</a
+                >
+              </li>
             </ul>
           </li>
         </ul>
