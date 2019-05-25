@@ -1,11 +1,19 @@
+
+@media only screen and (max-width: 1200px) { body{ font-size: 24px; }}
+@media only screen and (max-width: 1000px) { body{ font-size: 30px; }}
+@media only screen and (max-width: 992px) { body{ font-size: 35px; }}
+@media only screen and (max-width: 800px) { body{ font-size: 38px; }}
+@media only screen and (max-width: 768px) { body{ font-size: 42px; }}
+
 body {
   font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
   color: #2c3e50;
-  max-width: 600px;
+  max-width: 800px;
   margin: auto;
   padding: 0 20px 50px;
   line-height: 1.5;
   background: #fefefe;
+  -webkit-transition:font-size 0.2s ease-out;
 }
 ul,
 ol,
@@ -29,7 +37,7 @@ a {
 }
 
 .profile {
-  height: 100vh;
+  min-height: 78vh;
   text-align: center;
 }
 
