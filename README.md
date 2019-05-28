@@ -1,15 +1,10 @@
 <main>
   <section align="center">
-    <img style="width:150px;height:150px;border-radius:50%;" src="./avatar.jpg" alt="张超杰" />
+    <img  src="./avatar.png" alt="张超杰" />
     <p>坚持一件事情，不是因为我一定要坚持做它，而是因为做那件事让我很喜欢</p>
-    <p>
-      <a href="https://github.com/dream2023">Github</a>
-      <a href="https://juejin.im/user/5c1b0510f265da6150646b9a">掘进</a>
-      <a href="tencent://message/?uin=1098626505">QQ</a>
-    </p>
   </section>
 
-  <section style="margin-left: 20px">
+  <section>
     <h2 align="center">😊 开源项目列表 👇</h2>
     <ul>
       <li>
