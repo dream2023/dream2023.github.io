@@ -76,6 +76,15 @@
         </p>
       </li>
       <li>
+        <h3>vue-hover-mask</h3>
+        <p>
+          vue 遮罩组件
+        </p>
+        <p>
+          <a href="https://github.com/dream2023/vue-hover-mask">Github</a>
+        </p>
+      </li>
+      <li>
         <h3>easy-github-pages</h3>
         <p>
           一分钟搭建 GitHub Pages 的Vue组件
