@@ -67,6 +67,15 @@
         </p>
       </li>
       <li>
+        <h3>vue-ele-upload-video</h3>
+        <p>
+          对 element-ui 中 upload 组件进一步封装，使得视频上传更加容易
+        </p>
+        <p>
+          <a href="https://github.com/dream2023/vue-ele-upload-video">Github</a>
+        </p>
+      </li>
+      <li>
         <h3>easy-github-pages</h3>
         <p>
           一分钟搭建 GitHub Pages 的Vue组件
