@@ -76,6 +76,15 @@
         </p>
       </li>
       <li>
+        <h3>vue-ele-image</h3>
+        <p>
+          对 element-ui 中 upload 组件进一步封装，使 image 组件更强大、好用
+        </p>
+        <p>
+          <a href="https://github.com/dream2023/vue-ele-image">Github</a>
+        </p>
+      </li>
+      <li>
         <h3>vue-hover-mask</h3>
         <p>
           vue 遮罩组件
