@@ -76,6 +76,16 @@
         </p>
       </li>
       <li>
+      <li>
+        <h3>vue-ele-upload-image</h3>
+        <p>
+          对 element-ui 中 image 组件进一步封装，使得图片上传更加容易
+        </p>
+        <p>
+          <a href="https://github.com/dream2023/vue-ele-upload-image">Github</a>
+        </p>
+      </li>
+      <li>
         <h3>vue-ele-image</h3>
         <p>
           对 element-ui 中 upload 组件进一步封装，使 image 组件更强大、好用
