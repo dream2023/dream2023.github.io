@@ -10,6 +10,15 @@
     <h2 align="center">😊 开源项目列表 👇</h2>
     <ul>
       <li>
+        <h3>vue-ele-editable</h3>
+        <p>
+          高效、简单、强大的 element-ui 行内编辑组件
+        </p>
+        <p>
+          <a href="https://github.com/dream2023/vue-ele-editable">Github</a>
+        </p>
+      </li>
+      <li>
         <h3>vue-ele-import</h3>
         <p>
           超简单、好用的 element-ui Excel 导入组件
@@ -75,7 +84,6 @@
           <a href="https://github.com/dream2023/vue-ele-upload-video">Github</a>
         </p>
       </li>
-      <li>
       <li>
         <h3>vue-ele-upload-image</h3>
         <p>
