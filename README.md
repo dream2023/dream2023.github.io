@@ -15,7 +15,18 @@
           高效、简单、强大的 element-ui 行内编辑组件
         </p>
         <p>
+          <a href="https://codepen.io/dream2023/pen/dBNNbP">Demo</a>
           <a href="https://github.com/dream2023/vue-ele-editable">Github</a>
+        </p>
+      </li>
+      <li>
+        <h3>vue-ele-table</h3>
+        <p>
+          基于 element-ui 的表格二次封装, 实现了一行代码解决<code>搜索、排序、筛选、过滤、分页、显示隐藏列、行内编辑</code>功能
+        </p>
+        <p>
+          <a href="https://codepen.io/dream2023/pen/agwMpY">Demo</a>
+          <a href="https://github.com/dream2023/vue-ele-table">Github</a>
         </p>
       </li>
       <li>
@@ -24,6 +35,7 @@
           超简单、好用的 element-ui Excel 导入组件
         </p>
         <p>
+          <a href="https://codepen.io/dream2023/pen/NVBKRy">Demo</a>
           <a href="https://github.com/dream2023/vue-ele-import">Github</a>
         </p>
       </li>
@@ -33,8 +45,8 @@
           利用 element ui 组件库构成的画廊组件，支持图片、视频、iframe
         </p>
         <p>
+          <a href="https://codepen.io/dream2023/pen/vwZrgG/">Demo</a>
           <a href="https://github.com/dream2023/vue-ele-gallery">Github</a>
-          <a href="https://dream2023.github.io/vue-ele-gallery/">Documentation</a>
         </p>
       </li>
       <li>
@@ -43,6 +55,7 @@
           简单 & 强大的 vue 回到顶部组件
         </p>
         <p>
+          <a href="https://codepen.io/dream2023/pen/oRLqoj">Demo</a>
           <a href="https://github.com/dream2023/easy-go-top">Github</a>
           <a href="https://dream2023.github.io/easy-go-top/">Documentation</a>
         </p>
