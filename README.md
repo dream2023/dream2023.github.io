@@ -2,7 +2,7 @@
   <section>
     <div align="center">
       <img  src="./avatar.png" alt="张超杰" />
-      <p>坚持一件事情，不是因为我一定要坚持做它，而是因为做那件事让我很喜欢</p>
+      <p>因为喜爱, 所以坚持</p>
     </div>
   </section>
 
