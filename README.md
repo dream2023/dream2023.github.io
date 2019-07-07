@@ -10,6 +10,17 @@
     <h2 align="center">😊 开源项目列表 👇</h2>
     <ul>
       <li>
+        <h3>vue-ele-form</h3>
+        <p>
+          一行代码搞定整个表单(最得意之作)
+        </p>
+        <p>
+          <a href="https://www.yuque.com/chaojie-vjiel/vbwzgu">Doc</a>
+          <a href="https://codepen.io/dream2023/pen/KjGKYW">Demo</a>
+          <a href="https://github.com/dream2023/vue-ele-form">Github</a>
+        </p>
+      </li>
+      <li>
         <h3>vue-ele-editable</h3>
         <p>
           高效、简单、强大的 element-ui 行内编辑组件
