@@ -91,15 +91,6 @@
         </p>
       </li>
       <li>
-        <h3>vue-ele-steps</h3>
-        <p>
-          让 element-ui steps 更简单
-        </p>
-        <p>
-          <a href="https://github.com/dream2023/vue-ele-steps">Github</a>
-        </p>
-      </li>
-      <li>
         <h3>vue-ele-upload-video</h3>
         <p>
           对 element-ui 中 upload 组件进一步封装，使得视频上传更加容易
@@ -124,15 +115,6 @@
         </p>
         <p>
           <a href="https://github.com/dream2023/vue-ele-image">Github</a>
-        </p>
-      </li>
-      <li>
-        <h3>vue-hover-mask</h3>
-        <p>
-          vue 遮罩组件
-        </p>
-        <p>
-          <a href="https://github.com/dream2023/vue-hover-mask">Github</a>
         </p>
       </li>
       <li>
@@ -185,6 +167,8 @@
     </ul>
   </section>
   <section>
-    <h2>本人正在求职, 如果您有合适的职位, 请加微信联系: dream10nian</h2>
+        本人正在求职前端开发, 您可以
+        <a href="https://www.yuque.com/chaojie-vjiel/vbwzgu/uwgcr1">查看简历</a>
+        , 如果有合适的岗位, 请按照简历中的联系方式联系我哦~
   </section>
 </main>
