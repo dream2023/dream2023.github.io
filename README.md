@@ -12,7 +12,7 @@
       <li>
         <h3>vue-ele-form</h3>
         <p>
-          一行代码搞定整个表单(最得意之作)
+          基于 element-ui 的数据驱动表单组件(最得意之作)
         </p>
         <p>
           <a href="https://www.yuque.com/chaojie-vjiel/vbwzgu">Doc</a>
