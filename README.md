@@ -166,9 +166,4 @@
       </li>
     </ul>
   </section>
-  <section>
-        本人正在求职前端开发, 您可以
-        <a href="https://www.yuque.com/chaojie-vjiel/vbwzgu/uwgcr1">查看简历</a>
-        , 如果有合适的岗位, 请按照简历中的联系方式联系我哦~
-  </section>
 </main>
