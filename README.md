@@ -1,7 +1,7 @@
 <main>
   <section>
     <div align="center">
-      <img  src="./avatar.png" alt="张超杰" />
+      <img  src="./images/avatar.png" alt="张超杰" />
       <p>因为喜爱, 所以坚持</p>
     </div>
   </section>
@@ -18,6 +18,15 @@
           <a href="https://www.yuque.com/chaojie-vjiel/vbwzgu">Doc</a>
           <a href="https://codepen.io/dream2023/pen/KjGKYW">Demo</a>
           <a href="https://github.com/dream2023/vue-ele-form">Github</a>
+        </p>
+      </li>
+      <li>
+        <h3>vue-ele-form-generator</h3>
+        <p>
+          vue-ele-form-generator 是专为vue-ele-form开发的可视化表单设计工具, 让表单开发的效率更上一层楼!
+        </p>
+        <p>
+          <a href="https://github.com/dream2023/vue-ele-form-generator">Github</a>
         </p>
       </li>
       <li>
