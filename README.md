@@ -1,7 +1,7 @@
 <main>
   <section>
     <div align="center">
-      <img  src="./images/avatar.png" alt="张超杰" />
+      <img  src="./static/avatar.png" alt="张超杰" />
       <p>因为喜爱, 所以坚持</p>
     </div>
   </section>
