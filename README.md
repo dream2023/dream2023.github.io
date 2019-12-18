@@ -26,7 +26,28 @@
           vue-ele-form-generator 是专为vue-ele-form开发的可视化表单设计工具, 让表单开发的效率更上一层楼!
         </p>
         <p>
+          <a href="https://dream2023.gitee.io/form">DEMO</a>
           <a href="https://github.com/dream2023/vue-ele-form-generator">Github</a>
+        </p>
+      </li>
+      <li>
+        <h3>vue-run-sfc</h3>
+        <p>
+          Vue DEMO利器, 在线运行 & 编辑 Vue 单文件
+        </p>
+        <p>
+          <a href="https://vue-run-sfc.netlify.com/">Demo</a>
+          <a href="https://github.com/dream2023/vue-run-sfc">Github</a>
+        </p>
+      </li>
+      <li>
+        <h3>ele-table-editor</h3>
+        <p>
+          基于 element-ui 的表格编辑组件
+        </p>
+        <p>
+          <a href="https://ele-table-editor.netlify.com/">Demo</a>
+          <a href="https://github.com/dream2023/ele-table-editor">Github</a>
         </p>
       </li>
       <li>
